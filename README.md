@@ -1,6 +1,6 @@
-# CS744 DECS Shell Assignment
+# Custom Shell Program
 
-A simple Unix shell implemented in C for the **CS744 – DECS** assignment.
+A simple Unix shell implemented in C for the **CS744 – DECS** (Design & Engineering of Computing Systems) course.
 
 ### Features
 
